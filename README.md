@@ -1,4 +1,4 @@
-# Typst CV and cover letter Template
+# Typst CV and cover letter template
 
 A clean, minimal, two-column CV template built with [Typst](https://typst.app/). Also includes a cover letter template in `/coverletter`
 
