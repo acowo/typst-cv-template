@@ -104,6 +104,6 @@ Add, remove, or rearrange these components to suit your needs.
 
 ```
 
-License
+### License
 
-MIT License. See LICENSE for details.
+MIT License. See [LICENSE](LICENSE) for details.
