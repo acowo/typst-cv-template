@@ -96,9 +96,9 @@ Add, remove, or rearrange these components to suit your needs.
 │   ├── GitHub_Invertocat_Black.svg
 │   ├── LinkedIn_icon.svg
 │   └── preview.png
-├── coverletters
+├── coverletter
 │   └── coverletter.typ
-├── cvs
+├── cv
 │   └── cv.typ
 └── README.md
 
